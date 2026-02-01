@@ -62,7 +62,14 @@ section h2 {
 }
 
 .project {
-    margin-bottom: 20px;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f8f3f8;
+    border-radius: 5px;
+    width: 300px;
+    vertical-align: top;
+    text-align: left;
 }
 
 footer {

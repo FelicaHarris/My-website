@@ -31,6 +31,13 @@ header p {
     font-size: 1.2em;
 }
 
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
 section {
     padding: 40px 0;
 }
